@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Academic Tasks
+GenericName=Task Manager
+Comment=Lightweight academic task management widget for KDE
+Exec=python3 /home/ramiro/Widget-Tareas-Pendientes/src/main.py
+Icon=view-task
+Terminal=false
+Type=Application
+Categories=Utility;ProjectManagement;Education;
+Keywords=tasks;academic;university;homework;assignments;study;
+StartupWMClass=academic-tasks
+X-KDE-StartupNotify=false
