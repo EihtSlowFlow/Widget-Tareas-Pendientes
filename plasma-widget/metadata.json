@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Id": "org.ramiro.academictasks",
+        "Name": "Academic Tasks",
+        "Description": "Compact widget for Academic Tasks manager",
+        "Icon": "view-task",
+        "Version": "1.0",
+        "Category": "Utilities",
+        "License": "GPL-3.0+"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
